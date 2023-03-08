@@ -1,0 +1,23 @@
+Python Tuple
+The Python Tuple is almost similar to a List except that the Tuples are immutable, and Lists are mutable. It means Once we declare the Python Tuple, we cannot change the values or items inside it, something like Constant keyword in other programming languages.
+
+What is a tuple in Python?
+A Python Tuple is a sequence of multiple values in an ordered sequence. Python Tuples are declared using Open and Closed Parenthesis ( ). Unlike Strings, Python Tuple allows us to store different types of data such as integer, float, string, etc.
+
+How to Declare Python Tuple?
+To declare an empty Tuple in Python that contains no values, use TupleName = ().
+
+Like any other collection, we have to declare the elements where each item is separated by commas. Even to declare this object with one item, we have to specify a comma after the item.
+
+For instance: TupleName = (245,). Forgot to add a comma, then it is an integer type (Not a Tuple). The following are the list of possible ways to declare a String, Mixed, Nested and List Tuples in Python.
+
+
+String_Tuple = (‘apple’, ‘Orange’, ‘Grape’, ‘Mango’) is a string tuple that contains four string values.
+
+Mixed_Tuple = (‘apple’, 2, 3.50, ‘Mango’) is a mixed one that contains one integer, one float, and two integer values.
+
+Nested_Tuple = (‘Gateway’, ‘Tutorial’, (1, 2, 3) ) is an example of one inside another (Nested).
+
+
+List_Tuple = (‘Py’, ‘Tutorial’, [1, 2, 3] ) is an example of List inside a tuple.
+

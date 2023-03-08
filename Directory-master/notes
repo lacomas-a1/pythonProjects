@@ -1,0 +1,4 @@
+Python Directory
+While working with files, you should know which Python directory you are using, where your files are storing so on. If you know them, you can easily change the working directories or even create subfolders to organize your files.
+
+In Python, we have an os module, which contains all the necessary functions to work with file directories. So, to work with the Python directory methods, you have to import this os module.

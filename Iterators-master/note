@@ -1,0 +1,11 @@
+
+Python Iterator
+An Iterator in Python is an Object which contains a countable number of values or elements. You can use this iterator to Traverse all those elements. The Python iterator uses the special methods called __iter__() and __next__() methods to iterate the object elements.
+
+Python Iterator String Example
+In python, strings are iterable objects. Here, we use for loop to iterate each character in a string and returns that character. By default, or say, For loop implements the Python Iterator concept without your knowledge.
+
+string = 'tutorialgateway'
+ 
+for x in string:
+    print(x, end = '  ')

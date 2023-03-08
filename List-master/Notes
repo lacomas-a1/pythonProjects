@@ -1,0 +1,29 @@
+What is a List in Python?
+The Python List is one of the most useful sequences in real-time. A Python list is a sequence of multiple values in an ordered sequence. Unlike Strings, it allows us to store different types of data such as integer, float, string, etc.
+
+How to declare Python Lists
+There are several ways to create a List in Python. The most straightforward way is to place the required items within a square bracket [ ].
+
+
+How do you create an Empty List?
+An object that contains no values or elements is an empty. By placing an empty square bracket create an empty list in python.
+
+ListName = []
+
+How to create a Python List of Different Data Types?
+The first statement is an integer of five integer values. The second statement is a string that contains three String values or three words.
+
+
+IntegerList = [1, 2, 3, 4, 5]
+
+StringList = [‘apple’, ‘Orange’, ‘Grape’, ‘Mango’]
+
+Python lists allow placing different data types in a single. It is an example of a mixed, which contains one integer, float, and the two integer values.
+
+
+MixedList = [‘apple’, 2, 3.50, ‘Mango’]
+
+How to access Python List items?
+Python Lists sequentially store data (ordered). So, we can access the elements with the help of indexes. Moreover, using indexes, we can access or alter/change each item present in it separately. The syntax to access items is
+
+ListName([IndexNumber])

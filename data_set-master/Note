@@ -1,0 +1,2 @@
+A Python set data type is similar to Lists. However, it does not accept duplicate items (unique values). The Python set is an unordered collection of zero or more items, which are unindexed (no index position).
+Python Sets allows mutable items, so adding and removing items is very easy. However, slicing is not possible because of no index. Generally, Python sets are very useful to perform mathematical operations like Union, Intersections, comparisons, and differences.

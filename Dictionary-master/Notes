@@ -1,0 +1,15 @@
+
+Python Dictionary Methods
+It provides the following built-in functions or methods
+
+clear() removes all the elements.
+copy() shallow copy.
+fromkeys() returns a new one, where keys start from a sequence and equal to values.
+get() value of a Given Key.
+items() returns a list containing the items (keyvalue pairs)
+keys() Prints a list of keys.
+pop() remove and print the item of a given key. Use to delete a key.
+popitem() removes and prints the last inserted keyvalue pair. 
+setdefault() – If the given key is present, it returns its value. If not, this function inserts a key with a given value and prints that.
+update() updates the KeyValue pair.
+values() returns the list of all the values.
